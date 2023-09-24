@@ -23,11 +23,7 @@ Bu oyun, Kotlin programlama dili kullanılarak geliştirilmiştir.
 ## Ekran Görüntüleri (icon dahil)
 
 ![image](https://github.com/Adl1coder/HayvanBulmaca/assets/93915867/4f9a0c56-abf7-4298-b26e-a51aae38203f)
-
 ![image](https://github.com/Adl1coder/HayvanBulmaca/assets/93915867/02e7f918-77bd-4876-815f-bb2e1977deb3)
-
-![image](https://github.com/Adl1coder/HayvanBulmaca/assets/93915867/cbfa999a-bfdb-4001-8b3a-c87fdc8f036f)
-
 ![image](https://github.com/Adl1coder/HayvanBulmaca/assets/93915867/7eb2f571-840d-4116-a02a-02fbb2c4c024)
 
 

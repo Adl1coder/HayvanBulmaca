@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         val sharedPreferences = this.getSharedPreferences(packageName,android.content.Context.MODE_PRIVATE)
         val highestScore: Int = sharedPreferences.getInt("score",0)
         scoreTextView.text = "En yüksek Skor: " + highestScore.toString()
-
+        //new
         startButton.setOnClickListener {
             val intent = Intent(this@MainActivity, GameActivity::class.java)
             startActivity(intent)

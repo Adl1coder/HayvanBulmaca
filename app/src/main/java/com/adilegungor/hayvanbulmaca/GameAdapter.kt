@@ -23,6 +23,7 @@ class GameAdapter(
 
     override fun getItemCount(): Int {
         return animalList.size
+        //boyut
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {

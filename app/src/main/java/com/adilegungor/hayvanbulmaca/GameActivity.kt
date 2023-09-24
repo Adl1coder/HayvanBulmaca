@@ -33,7 +33,7 @@ class GameActivity : AppCompatActivity(){
                         mediaPlayer.stop()
                         mediaPlayer = MediaPlayer.create(this@GameActivity, R.raw.correct)
                         mediaPlayer.start()
-                        //ses
+
                         val sharedPreferences = this@GameActivity.getSharedPreferences(packageName,MODE_PRIVATE)
                         sharedPreferences.edit().putInt("score", 15).apply()
 

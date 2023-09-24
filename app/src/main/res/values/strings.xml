@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HayvanBulmaca</string>
+
+    <string name="animal_image">hayvan resmi</string>
+</resources>

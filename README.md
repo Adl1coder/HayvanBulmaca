@@ -28,9 +28,6 @@ Bu oyun, Kotlin programlama dili kullanılarak geliştirilmiştir.
 
 
 
-## Katkıda Bulunma
-
-Eğer bu projeye katkıda bulunmak veya hata bildirmek isterseniz, lütfen [Katkıda Bulunma Rehberi](CONTRIBUTING.md) ve [Kod Deyimleri](CODE_OF_CONDUCT.md) belgelerini inceleyin.
 
 ## İletişim
 
